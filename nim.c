@@ -1,3 +1,5 @@
+/*  Some sections of code adopted from examples shown in class by Professor Phil Kearns.  */
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
