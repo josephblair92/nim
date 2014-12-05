@@ -1,3 +1,5 @@
+/*  Some sections of code adopted from examples shown in class by Professor Phil Kearns.  */
+
 /************************************************************************\
 * 			  INET_RSTREAM.C       			         *
 * Test of TCP/IP. Set up a socket for establishing a connection at       *
